@@ -10,6 +10,10 @@
 #### 10
 #### 11 Devon is awesome!
 #### 12
-#### 13
+<<<<<<< HEAD
+#### 13 GitHub is cool.
+=======
+#### 13 GitHub is not cool.
+>>>>>>> ab1fd91abb1a3f8cc1d455124f97ea54de7b3931
 #### 14
 #### 15
